@@ -1,0 +1,56 @@
+<meetings>
+    <meeting>
+        <date>2024-05-20</date>
+        <time>10:00</time>
+        <with>Іванов Артем</with>
+        <place>Кімната №1</place>
+    </meeting>
+    <meeting>
+        <date>2024-05-20</date>
+        <time>12:00</time>
+        <with>Ковальчук Марія</with>
+        <place>Кімната №2</place>
+    </meeting>
+    <meeting>
+        <date>2024-05-20</date>
+        <time>14:00</time>
+        <with>Петренко Олександр</with>
+        <place>Кімната №3</place>
+    </meeting>
+    <meeting>
+        <date>2024-05-21</date>
+        <time>10:00</time>
+        <with>Сидоренко Анастасія</with>
+        <place>Кімната №1</place>
+    </meeting>
+    <meeting>
+        <date>2024-05-21</date>
+        <time>12:00</time>
+        <with>Василенко Дмитро</with>
+        <place>Кімната №2</place>
+    </meeting>
+    <meeting>
+        <date>2024-05-21</date>
+        <time>14:00</time>
+        <with>Григоренко Юлія</with>
+        <place>Кімната №3</place>
+    </meeting>
+    <meeting>
+        <date>2024-05-22</date>
+        <time>10:00</time>
+        <with>Ткаченко Андрій</with>
+        <place>Кімната №1</place>
+    </meeting>
+    <meeting>
+        <date>2024-05-22</date>
+        <time>12:00</time>
+        <with>Шевченко Ірина</with>
+        <place>Кімната №2</place>
+    </meeting>
+    <meeting>
+        <date>2024-05-22</date>
+        <time>14:00</time>
+        <with>Михайленко Сергій</with>
+        <place>Кімната №3</place>
+    </meeting>
+</meetings>
